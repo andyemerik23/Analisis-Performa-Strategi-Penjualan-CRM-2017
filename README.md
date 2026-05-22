@@ -64,7 +64,7 @@ Tujuan utama dari analisis ini adalah untuk menjawab pertanyaan bisnis krusial b
 
 Proyek ini menggunakan basis data relasional untuk mengelola data operasional CRM secara terintegrasi. Berikut adalah cetak biru skema database (*Enhanced Entity-Relationship Diagram*) yang diekstrak langsung menggunakan MySQL Workbench:
 
-![CRM Sales Opportunities EER Diagram](Database Architecture & EER Diagram.png)
+![CRM Sales Opportunities EER Diagram](Database%20Architecture%20&%20EER%20Diagram.png)
 
 ---
 
